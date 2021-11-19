@@ -1,1 +1,1 @@
-# -pygame-chinese-document
+# pygame-chinese-document
